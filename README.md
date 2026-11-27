@@ -1,1 +1,1 @@
-# workshop---4
+# SEC-DIP--Coin-Detection-using-OpenCV-in-Python
